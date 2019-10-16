@@ -28,6 +28,19 @@ debuild -us -uc -b
 
 See `debian` directory for more details.
 
+
+## Using demo repository
+
+You can test this package using this repo:
+
+```
+echo "deb https://demo.gbif.es/repo bionic main" > /etc/apt/sources.list.d/ala.list
+apt-key adv --keyserver keyserver.ubuntu.com --recv-keys F697D8D2ADB9E24A
+apt update
+apt install ala-i18n
+dpkg -L ala-i18n
+```
+
 ## Resources precedence
 
 To use these translations, each app should search for (with precedence):
