@@ -1,0 +1,14 @@
+# https://www.debian.org/doc/manuals/maint-guide/dother.en.html#install
+bie-index/grails-app/i18n opt/atlas/i18n/bie-index
+bie-plugin/grails-app/i18n opt/atlas/i18n/bie-plugin
+biocache-hubs/grails-app/i18n opt/atlas/i18n/biocache-hubs
+collectory-plugin/grails-app/i18n opt/atlas/i18n/collectory-plugin
+downloads-plugin/grails-app/i18n opt/atlas/i18n/downloads-plugin
+regions/grails-app/i18n opt/atlas/i18n/regions
+spatial-hub/grails-app/i18n opt/atlas/i18n/spatial-hub
+spatial-service/grails-app/i18n opt/atlas/i18n/spatial-service
+specieslist-webapp/grails-app/i18n opt/atlas/i18n/specieslist-webapp
+userdetails/grails-app/i18n opt/atlas/i18n/userdetails
+
+# different source directory
+biocache-service/src/main/webapp/WEB-INF/messa* opt/atlas/i18n/biocache-service

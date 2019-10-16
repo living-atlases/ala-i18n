@@ -20,9 +20,17 @@ With this proposal, all servers that need translations installs `ala-i18n` packa
 
 This unique package `ala-i18n` can be generated and build automatically via crowdin and debian package utils with few effort.
 
+## Build
+
+```
+debuild -us -uc -b
+```
+
+See `debian` directory for more details.
+
 ## Resources precedence
 
-To use these translations, each app will search for (with precedence):
+To use these translations, each app should search for (with precedence):
 
 ```
 # custom messages files in (can be created/edited by node developers)
@@ -33,3 +41,5 @@ To use these translations, each app will search for (with precedence):
 # currently packaged i18n resources
 /var/lib/tomcat7/webapp*
 ```
+
+so we have to update each app for this.

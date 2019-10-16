@@ -1,0 +1,21 @@
+Source: ala-i18n
+Section: utils
+Priority: optional
+Maintainer: ALA Development Team <support@ala.org.au>
+Uploaders: ALA Development Team <support@ala.org.au>
+Build-Depends:
+ debhelper (>= 11)
+Standards-Version: 4.2.1
+Homepage: https://github.com/living-atlases/ala-i18n
+Vcs-Browser: https://github.com/living-atlases/ala-i18n
+Vcs-Git: https://github.com/living-atlases/ala-i18n.git
+
+Package: ala-i18n
+Architecture: all
+Depends: ${misc:Depends}
+Description: The ala-i18n traslations module application
+ This package contains the ala-i18n package from
+ Atlas of Living Australia, Free and open source IT infrastructure
+ for the aggregation and delivery of biodiversity data.
+ .
+ More info about this module.

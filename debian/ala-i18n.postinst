@@ -1,0 +1,27 @@
+#!/bin/sh
+
+#######################################################
+#
+# Add here the commands to be excuted after the package
+# has been installed
+#
+
+#Example: create some symbolic links
+#
+#chown -R ${user}:${group} /opt/${appName}-${appVersion}
+#ln -s /opt/${appName}-${appVersion} /opt/${appName}
+
+set -e
+
+. /usr/share/debconf/confmodule
+
+#DEBHELPER#
+
+case "$1" in
+    configure)
+    ;;
+esac
+
+
+
+echo ala-i18n installed

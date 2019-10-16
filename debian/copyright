@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ala-i18n
+Upstream-Contact: ALA Development Team <support@ala.org.au>
+Source: https://github.com/living-atlases/ala-i18n
+
+Files: *
+Copyright: 2019, ALA Development Team <support@ala.org.au>
+License: MPL
+
+Files: debian/*
+Copyright: 2019, ALA Development Team <support@ala.org.au>
+License: MPL
+
+License: MPL
