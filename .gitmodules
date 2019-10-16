@@ -1,0 +1,33 @@
+[submodule "bie-index"]
+	path = bie-index
+	url = git@github.com:AtlasOfLivingAustralia/bie-index.git
+[submodule "bie-plugin"]
+	path = bie-plugin
+	url = git@github.com:AtlasOfLivingAustralia/bie-plugin.git
+[submodule "biocache-hubs"]
+	path = biocache-hubs
+	url = git@github.com:AtlasOfLivingAustralia/biocache-hubs.git
+[submodule "biocache-service"]
+	path = biocache-service
+	url = git@github.com:AtlasOfLivingAustralia/biocache-service.git
+[submodule "collectory-plugin"]
+	path = collectory-plugin
+	url = git@github.com:AtlasOfLivingAustralia/collectory-plugin.git
+[submodule "downloads-plugin"]
+	path = downloads-plugin
+	url = git@github.com:AtlasOfLivingAustralia/downloads-plugin.git
+[submodule "regions"]
+	path = regions
+	url = git@github.com:AtlasOfLivingAustralia/regions.git
+[submodule "spatial-hub"]
+	path = spatial-hub
+	url = git@github.com:AtlasOfLivingAustralia/spatial-hub.git
+[submodule "spatial-service"]
+	path = spatial-service
+	url = git@github.com:AtlasOfLivingAustralia/spatial-service.git
+[submodule "specieslist-webapp"]
+	path = specieslist-webapp
+	url = git@github.com:AtlasOfLivingAustralia/specieslist-webapp.git
+[submodule "userdetails"]
+	path = userdetails
+	url = git@github.com:AtlasOfLivingAustralia/userdetails.git
