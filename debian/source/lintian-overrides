@@ -1,0 +1,10 @@
+source-is-missing spatial-service/*
+source-is-missing spatial-hub/*
+source-is-missing collectory-plugin/*
+source-is-missing regions/*
+source-is-missing bie-plugin/*
+source-is-missing bie-index/*
+source-is-missing downloads-plugin/*
+source-is-missing userdetails/*
+source-is-missing biocache-hubs/*
+source-is-missing specieslist-webapp/*
