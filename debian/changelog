@@ -1,3 +1,9 @@
+ala-i18n (0.0.2) unstable; urgency=medium
+
+  * Fixes for source generation
+
+ -- Vicente J. Ruiz Jurado <vjrj@ourproject.org>  Thu, 24 Oct 2019 22:22:37 +0200
+
 ala-i18n (0.0.1.4) unstable; urgency=medium
 
   * Downgrade to debhelp 9 to allow automatic builds in our CI
