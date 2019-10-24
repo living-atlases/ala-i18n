@@ -1,7 +1,9 @@
 #
-# This is the crowdin-cli configuration for this repository that allow to keep in sync ALA and crowdin translations in both directions.
+# This is the crowdin-cli configuration for this repository that allow to keep download  ALA translations from crowdin.
 #
-# Currently github integration only allows to configure one repo, so we need to use crowdin-cli to keep in sync serveral githubs repos with one crowdin project.
+# WARNING: use this configuration only to download translations (no upload sources) and build ala-i18n deb package
+#
+# Currently github integration only allows to configure one repo, so we need to use crowdin-cli to keep in sync serveral github repos with one crowdin project.
 #
 # To use it this, you need to configure two vars:
 #
@@ -15,12 +17,6 @@
 #   crowdin download
 # or a specific language with:
 #   crowdin download --language es-ES
-# so you can later commit the changes to github.
-#
-# You can update messages.properties in crowdin with:
-#   crowdin upload sources
-# and the translations (if there are some change in the repository that needs to be updated in crowdin), for instance to update Japanese language:
-#   crowdin upload translations -l ja
 #
 # Note: Right now `crowdin-cli download` downloads files of non translated languages with empty lines and comments, so as a workround, you can run this bash snippet to delete these empty files prior to git commit the changes:
 #   for i in $(ls grails-app/i18n/messages_*) ; do SIZE=$(cat $i | egrep -v "^#|^$" | wc -c); if [[ $SIZE -eq 0 ]] ; then rm $i; fi ; done
@@ -119,7 +115,7 @@ files: [
   # The dest allows you to specify a file name on Crowdin
   # e.g. "/messages.json"
   #
-  "dest" : "/bie-index/messages.properties",
+  "dest" : "",
 
   #
   # File type
