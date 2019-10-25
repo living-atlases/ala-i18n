@@ -1,8 +1,20 @@
+ala-i18n (0.0.4) unstable; urgency=medium
+
+  * Translations updated
+
+ -- Vicente J. Ruiz Jurado <vjrj@ourproject.org>  Fri, 25 Oct 2019 10:10:23 +0200
+
+ala-i18n (0.0.3) unstable; urgency=medium
+
+  * Translations updated
+
+ -- Vicente J. Ruiz Jurado <vjrj@ourproject.org>  Fri, 25 Oct 2019 10:09:38 +0200
+
 ala-i18n (0.0.2) unstable; urgency=medium
 
   * Fixes for source generation
 
- -- Vicente J. Ruiz Jurado <vjrj@ourproject.org>  Thu, 24 Oct 2019 22:22:37 +0200
+ -- Vicente J. Ruiz Jurado <vjrj@ourproject.org>  Fri, 25 Oct 2019 10:09:08 +0200
 
 ala-i18n (0.0.1.4) unstable; urgency=medium
 
