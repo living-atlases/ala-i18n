@@ -12,13 +12,11 @@ This follows the `/opt/atlas` usage of `CAS` and new `images-service` version.
 
 ## Packaging
 
-With this we can create an unique debian package like `ala-i18n` with all the apps translations together to simplify (also we can use [alien](https://wiki.debian.org/Alien) to generate an equivalent RHEL package) and add it to a debian public repo.
+We create an unique debian package like `ala-i18n` with all the apps translations together to simplify (also we can use [alien](https://wiki.debian.org/Alien) to generate an equivalent RHEL package) and we add it to a debian public repo (see below).
 
-This internationalization package can be updated with a faster workflow and quite independent of ALA apps releases.
+This internationalization package is automatically build and released on each crowdin finished translation and will be quite independent of ALA apps releases.
 
-With this proposal, all servers that need translations installs `ala-i18n` package. If that server has only the collectory module, will only use `/opt/atlas/i18n/collectory/messages*` of ala-i18n package.
-
-This unique package `ala-i18n` can be generated and build automatically via crowdin and debian package utils with few effort.
+With this proposal, all servers that need translations installs and update the `ala-i18n` package. If that server has only the collectory module, will only use `/opt/atlas/i18n/collectory/messages*` of ala-i18n package.
 
 ## Build
 
@@ -41,9 +39,11 @@ apt install ala-i18n
 dpkg -L ala-i18n
 ```
 
+Currently this package is generated automatically using https://jenkins.gbif.es/job/ala-i18n-packaging/ job on each crowdin finished translation.
+
 ## Resources precedence
 
-To use these translations, each app should search for (with precedence):
+To use these translations, each ALA app should search for (with precedence):
 
 ```
 # custom messages files in (can be created/edited by node developers)
@@ -55,4 +55,4 @@ To use these translations, each app should search for (with precedence):
 /var/lib/tomcat7/webapp*
 ```
 
-so we have to update each app for this.
+So [we are updating each ALA app](https://github.com/search?q=is%3Apr+author%3Avjrj+org%3AAtlasOfLivingAustralia+ala-i18n&type=Issues) for this. With these PRs merged and with your ALA site updated (with them), you can maintain your site translations up-to-date.
