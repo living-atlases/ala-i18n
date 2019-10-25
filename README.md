@@ -18,18 +18,9 @@ This internationalization package is automatically build and released on each cr
 
 With this proposal, all servers that need translations installs and update the `ala-i18n` package. If that server has only the collectory module, will only use `/opt/atlas/i18n/collectory/messages*` of ala-i18n package.
 
-## Build
+## Install
 
-```
-debuild -us -uc -b
-```
-
-See `debian` directory for more details.
-
-
-## Using demo repository
-
-You can test this package using this repo:
+You can test this package using this apt repository:
 
 ```
 echo "deb https://demo.gbif.es/repo bionic main" > /etc/apt/sources.list.d/ala.list
@@ -39,7 +30,23 @@ apt install ala-i18n
 dpkg -L ala-i18n
 ```
 
-Currently this package is generated automatically using https://jenkins.gbif.es/job/ala-i18n-packaging/ job on each crowdin finished translation.
+## Build
+
+You can manually generate this package with:
+
+```
+debuild -us -uc -b
+```
+
+See `debian` directory for more details.
+
+## Continuos integration
+
+Currently this package is generated and published automatically in the above apt repository using https://jenkins.gbif.es/job/ala-i18n-packaging/ job. This job is automatically launched on each crowdin finished translation.
+
+We can share the job configuration with ALA team, if they want to take care of this build process.
+
+We can share also the webhook that launchs this job, if you want to launch it manually for any reason.
 
 ## Resources precedence
 
