@@ -40,13 +40,13 @@ debuild -us -uc -b
 
 See `debian` directory for more details.
 
-## Continuos integration
+## Continuous integration
 
-Currently this package is generated and published automatically in the above apt repository using https://jenkins.gbif.es/job/ala-i18n-packaging/ job. This job is automatically launched on each crowdin finished translation.
+Currently this package is generated and published automatically in the above apt repository using some jenkins job. This job is automatically launched on each crowdin finished translation. The upload of sources and new messages translations from github to crowdin is also automatized in other job.
 
-We can share the job configuration with ALA team, if they want to take care of this build process.
+We can share these job configurations with ALA team, if they want to take care of this build process.
 
-We can share also the webhook that launchs this job, if you want to launch it manually for any reason.
+We can share also the webhook that launchs this job with other portals, if they want to launch it manually for any reason, and generate a new debian package in some minutes with new translations.
 
 ## Resources precedence
 
