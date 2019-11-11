@@ -1,3 +1,13 @@
+ala-i18n (0.0.13) unstable; urgency=medium
+
+  [ Jenkins ]
+  * Build #57. Started by user LA crowdin sync user.
+
+  [ vjrj ]
+  * Improved README
+
+ -- Jenkins <jenkins@localhost>  Mon, 11 Nov 2019 23:51:04 +0100
+
 ala-i18n (0.0.12) unstable; urgency=medium
 
   * Build #54. Started by user admin.
