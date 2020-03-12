@@ -1,3 +1,10 @@
+ala-i18n (0.0.105) unstable; urgency=medium
+
+  * Build #154. Started due to files found on node "master" in directory
+    "/var/tmp/" matching pattern "crowdin-i18n-build".
+
+ -- Jenkins <jenkins@biocache-store-0>  Thu, 12 Mar 2020 13:17:35 +0100
+
 ala-i18n (0.0.104) unstable; urgency=medium
 
   * Build #153. Started due to files found on node "master" in directory
