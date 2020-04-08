@@ -1,3 +1,18 @@
+ala-i18n (0.0.125) unstable; urgency=medium
+
+  [ Jenkins ]
+  * Build #174. Started by user admin.
+
+  [ vjrj ]
+  * Copied crowdin configs
+  * Enabled different versions of Spanish. Enabled Swahili
+  * Enabled German versions
+  * Added small script to maintain a local version configuration of each
+    crowdin.yml
+  * Enabled all French variants
+
+ -- Jenkins <jenkins@biocache-store-0>  Wed, 08 Apr 2020 21:38:11 +0200
+
 ala-i18n (0.0.124) unstable; urgency=medium
 
   * Build #173. Started due to files found on node "master" in directory
