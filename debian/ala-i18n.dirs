@@ -8,6 +8,7 @@ var/opt/atlas/i18n/biocache-hubs
 var/opt/atlas/i18n/biocache-service
 var/opt/atlas/i18n/collectory-plugin
 var/opt/atlas/i18n/downloads-plugin
+var/opt/atlas/i18n/image-service
 var/opt/atlas/i18n/regions
 var/opt/atlas/i18n/spatial-hub
 var/opt/atlas/i18n/spatial-service

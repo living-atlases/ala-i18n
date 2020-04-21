@@ -1,3 +1,9 @@
+ala-i18n (0.1.1) unstable; urgency=medium
+
+  * Added image service repo
+
+ -- Vicente J. Ruiz Jurado <vjrj@gbif.es>  Tue, 21 Apr 2020 16:03:01 +0200
+
 ala-i18n (0.0.166) unstable; urgency=medium
 
   * Build #216. Started due to files found on node "master" in directory

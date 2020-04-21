@@ -31,3 +31,6 @@
 [submodule "userdetails"]
 	path = userdetails
 	url = https://github.com/AtlasOfLivingAustralia/userdetails.git
+[submodule "image-service"]
+	path = image-service
+	url = https://github.com/AtlasOfLivingAustralia/image-service.git
