@@ -1,3 +1,13 @@
+ala-i18n (0.2.6) unstable; urgency=medium
+
+  [ Jenkins ]
+  * Build #223. Started by user admin.
+
+  [ vjrj ]
+  * Fix rename cmd
+
+ -- Jenkins <jenkins@biocache-store-0>  Fri, 24 Apr 2020 12:28:19 +0200
+
 ala-i18n (0.2.5) unstable; urgency=medium
 
   * Updated debian/install & dirs with CAS
