@@ -12,4 +12,5 @@ specieslist-webapp/grails-app/i18n/messa* opt/atlas/i18n/specieslist-webapp
 userdetails/grails-app/i18n/messa* opt/atlas/i18n/userdetails
 
 # different source directory
+ala-cas-5/src/main/resources/custom_messages* opt/atlas/i18n/ala-cas-5
 biocache-service/src/main/webapp/WEB-INF/messa* opt/atlas/i18n/biocache-service
