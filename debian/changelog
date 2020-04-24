@@ -1,3 +1,10 @@
+ala-i18n (0.2.4ubuntu1) unstable; urgency=medium
+
+  * Updated debian/install & dirs with CAS
+  * renamed custom_ CAS to messages like the rest of modules
+
+ -- Vicente J. Ruiz Jurado <vjrj@gbif.es>  Fri, 24 Apr 2020 11:33:03 +0200
+
 ala-i18n (0.2.4) unstable; urgency=medium
 
   * Build #221. Started due to files found on node "master" in directory
