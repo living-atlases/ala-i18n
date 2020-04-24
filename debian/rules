@@ -15,7 +15,7 @@
 build:
 	# messages are using by CAS and our ala-cas use custom_messages for the rest, but we package it
 	# as messages_* like the others ALA modules
-	rename -s '/custom_//g' ala-cas-5/src/main/resources/custom_messages*.properties
+	rename 's/custom_//g' ala-cas-5/src/main/resources/custom_messages*.properties
 
 override_dh_fixperms:
 	dh_fixperms
