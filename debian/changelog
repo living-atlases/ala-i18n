@@ -1,8 +1,12 @@
-ala-i18n (0.2.7) UNRELEASED; urgency=medium
+ala-i18n (0.2.8) UNRELEASED; urgency=medium
 
+  [ Vicente J. Ruiz Jurado ]
   * Renamed install dir of cas from ala-cas-5 to cas
 
- -- Vicente J. Ruiz Jurado <vjrj@gbif.es>  Fri, 24 Apr 2020 12:41:32 +0200
+  [ Jenkins ]
+  * Build #224. Started by user admin.
+
+ -- Jenkins <jenkins@biocache-store-0>  Fri, 24 Apr 2020 13:04:31 +0200
 
 ala-i18n (0.2.6) unstable; urgency=medium
 
