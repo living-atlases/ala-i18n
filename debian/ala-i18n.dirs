@@ -2,11 +2,11 @@
 #
 # There is no preceding slash on the directory names listed in the dirs file.
 
-var/opt/atlas/i18n/ala-cas-5
 var/opt/atlas/i18n/bie-index
 var/opt/atlas/i18n/bie-plugin
 var/opt/atlas/i18n/biocache-hubs
 var/opt/atlas/i18n/biocache-service
+var/opt/atlas/i18n/cas
 var/opt/atlas/i18n/collectory-plugin
 var/opt/atlas/i18n/downloads-plugin
 var/opt/atlas/i18n/image-service
