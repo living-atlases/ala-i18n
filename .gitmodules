@@ -34,3 +34,6 @@
 [submodule "image-service"]
 	path = image-service
 	url = https://github.com/AtlasOfLivingAustralia/image-service.git
+[submodule "ala-cas-5"]
+	path = ala-cas-5
+	url = https://github.com/AtlasOfLivingAustralia/ala-cas-5.git
