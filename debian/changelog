@@ -1,4 +1,4 @@
-ala-i18n (0.2.4ubuntu1) unstable; urgency=medium
+ala-i18n (0.2.5) unstable; urgency=medium
 
   * Updated debian/install & dirs with CAS
   * renamed custom_ CAS to messages like the rest of modules
