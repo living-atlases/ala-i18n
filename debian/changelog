@@ -1,4 +1,4 @@
-ala-i18n (0.2.25) UNRELEASED; urgency=medium
+ala-i18n (0.2.26) UNRELEASED; urgency=medium
 
   [ Vicente J. Ruiz Jurado ]
   * Renamed install dir of cas from ala-cas-5 to cas
@@ -43,8 +43,10 @@ ala-i18n (0.2.25) UNRELEASED; urgency=medium
     "/var/tmp/" matching pattern "crowdin-i18n-build".
   * Build #242. Started due to files found on node "master" in directory
     "/var/tmp/" matching pattern "crowdin-i18n-build".
+  * Build #243. Started due to files found on node "master" in directory
+    "/var/tmp/" matching pattern "crowdin-i18n-build".
 
- -- Jenkins <jenkins@biocache-store-0>  Mon, 18 May 2020 09:38:53 +0200
+ -- Jenkins <jenkins@biocache-store-0>  Mon, 18 May 2020 10:36:09 +0200
 
 ala-i18n (0.2.6) unstable; urgency=medium
 
