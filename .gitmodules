@@ -37,3 +37,6 @@
 [submodule "ala-cas-5"]
 	path = ala-cas-5
 	url = https://github.com/AtlasOfLivingAustralia/ala-cas-5.git
+[submodule "alerts"]
+	path = alerts
+	url = https://github.com/AtlasOfLivingAustralia/alerts.git
