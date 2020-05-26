@@ -1,4 +1,5 @@
 # https://www.debian.org/doc/manuals/maint-guide/dother.en.html#install
+alerts/grails-app/i18n/messa* opt/atlas/i18n/alerts
 bie-index/grails-app/i18n/messa* opt/atlas/i18n/bie-index
 bie-plugin/grails-app/i18n/messa* opt/atlas/i18n/bie-plugin
 biocache-hubs/grails-app/i18n/messa* opt/atlas/i18n/biocache-hubs
