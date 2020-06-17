@@ -1,3 +1,13 @@
+ala-i18n (0.3.19) unstable; urgency=medium
+
+  [ Jenkins ]
+  * Build #289. Started by user admin.
+
+  [ vjrj ]
+  * Update crowdin configs
+
+ -- Jenkins <jenkins@biocache-store-0>  Wed, 17 Jun 2020 09:40:44 +0200
+
 ala-i18n (0.3.18) unstable; urgency=medium
 
   * Build #288. Started by user admin.
