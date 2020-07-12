@@ -1,3 +1,9 @@
+ala-i18n (0.4.0) unstable; urgency=medium
+
+  * Set default language variants fr_FR > fr, es_ES > es, pt_PT > pt,...
+
+ -- Vicente J. Ruiz Jurado <vjrj@gbif.es>  Sun, 12 Jul 2020 23:53:18 +0200
+
 ala-i18n (0.3.43) unstable; urgency=medium
 
   * Build #314. Started due to files found on node "master" in directory
