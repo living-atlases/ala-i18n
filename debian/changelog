@@ -1,3 +1,13 @@
+ala-i18n (0.4.4) unstable; urgency=medium
+
+  [ Jenkins ]
+  * Build #318. Started by user admin.
+
+  [ vjrj ]
+  * Updated crowdin.yml download config
+
+ -- Jenkins <jenkins@biocache-store-0>  Mon, 13 Jul 2020 10:52:42 +0200
+
 ala-i18n (0.4.3) unstable; urgency=medium
 
   * Build #317. Started by user admin.
