@@ -1,3 +1,9 @@
+ala-i18n (0.4.7) unstable; urgency=medium
+
+  * Build #324. Started by user admin.
+
+ -- Jenkins <jenkins@biocache-store-0>  Mon, 13 Jul 2020 21:29:41 +0200
+
 ala-i18n (0.4.6) unstable; urgency=medium
 
   * Build #321. Started due to files found on node "master" in directory
