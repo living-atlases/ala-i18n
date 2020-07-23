@@ -177,7 +177,7 @@ files: [
   # 3 - escape single quote by another single quote only in strings containing variables ( {0} ).
   #
 
-  "escape_quotes" : 3,
+  "escape_quotes" : 1,
 
   #
   # End .properties block
