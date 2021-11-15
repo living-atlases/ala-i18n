@@ -40,3 +40,7 @@
 [submodule "alerts"]
 	path = alerts
 	url = https://github.com/AtlasOfLivingAustralia/alerts.git
+[submodule "doi-service"]
+	path = doi-service
+	url = https://github.com/AtlasOfLivingAustralia/doi-service.git
+  branch = develop
