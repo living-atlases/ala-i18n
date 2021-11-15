@@ -1,3 +1,15 @@
+ala-i18n (0.4.115) unstable; urgency=medium
+
+  [ Jenkins ]
+  * Build #446. Started by user admin.
+
+  [ vjrj ]
+  * Added doi-service
+  * Added doi crowdin config
+  * Added doi-service to i18n deb package
+
+ -- Jenkins <jenkins@biocache-store-0>  Mon, 15 Nov 2021 09:26:13 +0100
+
 ala-i18n (0.4.114) unstable; urgency=medium
 
   * Build #445. Started due to files found on node "master" in directory
