@@ -1,3 +1,9 @@
+ala-i18n (0.5.2) unstable; urgency=medium
+
+  * Bump 0.5.2
+
+ -- Vicente J. Ruiz Jurado <vjrj@ourproject.org>  Tue, 21 Dec 2021 18:11:47 +0100
+
 ala-i18n (0.5.1) unstable; urgency=medium
 
   * Bump 0.5.1 as 0.4.131 is failing in apt.gbif.es
