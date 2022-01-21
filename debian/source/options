@@ -1,3 +1,4 @@
-diff-ignore=.*
-tar-ignore=.*
+diff-ignore = .*
+tar-ignore = .*
 extend-diff-ignore = "(^|/)(.*)$"
+tar-ignore = ".git"
