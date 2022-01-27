@@ -1,3 +1,14 @@
+ala-i18n (0.5.43) unstable; urgency=medium
+
+  [ Jenkins ]
+  * Build #517. Started due to files found on node "master" in directory
+    "/var/tmp/" matching pattern "crowdin-i18n-build".
+
+  [ vjrj ]
+  * Add .git to tar-ignore for generate deb source
+
+ -- Jenkins <jenkins@biocache-store-0>  Thu, 27 Jan 2022 10:52:02 +0100
+
 ala-i18n (0.5.42) unstable; urgency=medium
 
   * Build #514. Started due to files found on node "master" in directory
