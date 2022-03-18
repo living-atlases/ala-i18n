@@ -44,3 +44,9 @@
 	path = doi-service
 	url = https://github.com/AtlasOfLivingAustralia/doi-service.git
   branch = develop
+[submodule "biocollect"]
+	path = biocollect
+	url = https://github.com/AtlasOfLivingAustralia/biocollect.git
+[submodule "ecodata"]
+	path = ecodata
+	url = https://github.com/AtlasOfLivingAustralia/ecodata.git
