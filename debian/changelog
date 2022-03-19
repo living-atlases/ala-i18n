@@ -1,3 +1,15 @@
+ala-i18n (0.5.158) unstable; urgency=medium
+
+  [ Jenkins ]
+  * Build #633. Started due to files found on node "master" in directory
+    "/var/tmp/" matching pattern "crowdin-i18n-build".
+
+  [ vjrj ]
+  * Added biocollect and ecodata submodules
+  * Added ecodata/biocollect configs
+
+ -- Jenkins <jenkins@biocache-store-0>  Sat, 19 Mar 2022 00:56:30 +0100
+
 ala-i18n (0.5.157) unstable; urgency=medium
 
   * Build #632. Started due to files found on node "master" in directory
