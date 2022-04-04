@@ -10,9 +10,6 @@
 [submodule "biocache-service"]
 	path = biocache-service
 	url = https://github.com/AtlasOfLivingAustralia/biocache-service.git
-[submodule "collectory-plugin"]
-	path = collectory-plugin
-	url = https://github.com/AtlasOfLivingAustralia/collectory-plugin.git
 [submodule "downloads-plugin"]
 	path = downloads-plugin
 	url = https://github.com/AtlasOfLivingAustralia/downloads-plugin.git
@@ -50,3 +47,6 @@
 [submodule "ecodata"]
 	path = ecodata
 	url = https://github.com/AtlasOfLivingAustralia/ecodata.git
+[submodule "crowdin-configs/collectory"]
+	path = collectory
+	url = https://github.com/AtlasOfLivingAustralia/collectory.git

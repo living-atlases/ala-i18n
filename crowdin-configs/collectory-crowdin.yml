@@ -61,7 +61,7 @@ files: [
   # Source files filter
   # e.g. "/resources/en/*.json"
   #
-  "source" : "/collectory-plugin/grails-app/i18n/messages.properties",
+  "source" : "/collectory/grails-app/i18n/messages.properties",
 
   #
   # where translations live
