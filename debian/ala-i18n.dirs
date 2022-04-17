@@ -7,10 +7,12 @@ var/opt/atlas/i18n/bie-index
 var/opt/atlas/i18n/bie-plugin
 var/opt/atlas/i18n/biocache-hubs
 var/opt/atlas/i18n/biocache-service
+var/opt/atlas/i18n/biocollect
 var/opt/atlas/i18n/cas
 var/opt/atlas/i18n/collectory-plugin
 var/opt/atlas/i18n/doi-service
 var/opt/atlas/i18n/downloads-plugin
+var/opt/atlas/i18n/ecodata
 var/opt/atlas/i18n/image-service
 var/opt/atlas/i18n/regions
 var/opt/atlas/i18n/spatial-hub

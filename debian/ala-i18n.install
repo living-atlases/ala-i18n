@@ -3,9 +3,11 @@ alerts/grails-app/i18n/messa* opt/atlas/i18n/alerts
 bie-index/grails-app/i18n/messa* opt/atlas/i18n/bie-index
 bie-plugin/grails-app/i18n/messa* opt/atlas/i18n/bie-plugin
 biocache-hubs/grails-app/i18n/messa* opt/atlas/i18n/biocache-hubs
+biocollect/grails-app/i18n/messa* opt/atlas/i18n/biocollect
 collectory-plugin/grails-app/i18n/messa* opt/atlas/i18n/collectory-plugin
 doi-service/grails-app/i18n/messa* opt/atlas/i18n/doi-service
 downloads-plugin/grails-app/i18n/messa* opt/atlas/i18n/downloads-plugin
+ecodata/grails-app/i18n/messa* opt/atlas/i18n/ecodata
 image-service/grails-app/i18n/messa* opt/atlas/i18n/image-service
 regions/grails-app/i18n/messa* opt/atlas/i18n/regions
 spatial-hub/grails-app/i18n/messa* opt/atlas/i18n/spatial-hub
