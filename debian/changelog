@@ -1,3 +1,13 @@
+ala-i18n (0.5.179) unstable; urgency=medium
+
+  [ Jenkins ]
+  * Build #654. Started by user admin.
+
+  [ vjrj ]
+  * Add biocollect and ecodata to debian package
+
+ -- Jenkins <jenkins@biocache-store-0>  Sun, 17 Apr 2022 23:03:55 +0200
+
 ala-i18n (0.5.178) unstable; urgency=medium
 
   * Build #653. Started due to files found on node "master" in directory
