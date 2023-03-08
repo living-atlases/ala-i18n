@@ -1,3 +1,10 @@
+ala-i18n (0.5.304) unstable; urgency=medium
+
+  * Build #793. Started due to files found on node "master" in directory
+    "/var/tmp/" matching pattern "crowdin-i18n-build".
+
+ -- Jenkins <jenkins@biocache-store-0.gbif.es>  Wed, 08 Mar 2023 15:05:30 +0100
+
 ala-i18n (0.5.303) unstable; urgency=medium
 
   [ Jenkins ]
