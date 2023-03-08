@@ -1,9 +1,9 @@
 [submodule "bie-index"]
 	path = bie-index
 	url = https://github.com/AtlasOfLivingAustralia/bie-index.git
-[submodule "bie-plugin"]
-	path = bie-plugin
-	url = https://github.com/AtlasOfLivingAustralia/bie-plugin.git
+[submodule "ala-bie-hub"]
+	path = ala-bie-hub
+	url = https://github.com/AtlasOfLivingAustralia/ala-bie-hub.git
 [submodule "biocache-hubs"]
 	path = biocache-hubs
 	url = https://github.com/AtlasOfLivingAustralia/biocache-hubs.git
