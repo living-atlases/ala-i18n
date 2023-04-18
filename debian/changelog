@@ -1,3 +1,9 @@
+ala-i18n (0.6.0) UNRELEASED; urgency=medium
+
+  * Trying to fix jenkins builds
+
+ -- Vicente J. Ruiz Jurado <vjrj@comunes.org>  Tue, 18 Apr 2023 16:00:15 +0200
+
 ala-i18n (0.5.305) unstable; urgency=medium
 
   * Build #794. Started due to files found on node "master" in directory
