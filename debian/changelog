@@ -1,4 +1,4 @@
-ala-i18n (0.6.61) UNRELEASED; urgency=medium
+ala-i18n (0.6.62) UNRELEASED; urgency=medium
 
   [ Vicente J. Ruiz Jurado ]
   * Trying to fix jenkins builds
@@ -132,8 +132,10 @@ ala-i18n (0.6.61) UNRELEASED; urgency=medium
     "/var/tmp/" matching pattern "crowdin-i18n-build".
   * Build #876. Started due to files found on node "master" in directory
     "/var/tmp/" matching pattern "crowdin-i18n-build".
+  * Build #877. Started due to files found on node "master" in directory
+    "/var/tmp/" matching pattern "crowdin-i18n-build".
 
- -- Jenkins <jenkins@biocache-store-0.gbif.es>  Tue, 07 Nov 2023 20:43:51 +0100
+ -- Jenkins <jenkins@biocache-store-0.gbif.es>  Fri, 10 Nov 2023 01:45:15 +0100
 
 ala-i18n (0.5.305) unstable; urgency=medium
 
