@@ -122,7 +122,7 @@ files: [
   # The dest allows you to specify a file name on Crowdin
   # e.g. "/messages.json"
   #
-  "dest" : "/ala-cas-5/messages.properties",
+  "dest" : "/ala-cas-5/custom_messages.properties",
 
   #
   # File type
