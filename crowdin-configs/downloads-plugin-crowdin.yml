@@ -38,8 +38,8 @@
 # Your crowdin's credentials
 
 #
-"project_identifier" : "ala-i18n"
-"api_key_env" : CROWDIN_API_KEY
+"project_id_env": CROWDIN_PROJECT_ID
+"api_token_env" : CROWDIN_PERSONAL_TOKEN
 "base_path_env": CROWDIN_BASE_PATH
 
 # "api_key" : "foo"
@@ -89,6 +89,7 @@ files: [
     # "fr_LU": "fr",
     "gl_ES": "gl",
     "he_IL": "he",
+    "hr_HR": "hr",
     "hu_HU": "hu",
     "it_IT": "it",
     "ja_JP": "ja",
@@ -211,6 +212,7 @@ files: [
       # "fr_LU": "fr",
       "gl_ES": "gl",
       "he_IL": "he",
+      "hr_HR": "hr",
       "hu_HU": "hu",
       "it_IT": "it",
       "ja_JP": "ja",
