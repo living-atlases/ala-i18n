@@ -1,4 +1,4 @@
-ala-i18n (0.6.225) UNRELEASED; urgency=medium
+ala-i18n (0.6.226) UNRELEASED; urgency=medium
 
   [ Vicente J. Ruiz Jurado ]
   * Trying to fix jenkins builds
@@ -464,8 +464,9 @@ ala-i18n (0.6.225) UNRELEASED; urgency=medium
   * Build #1221. Started by user admin.
   * Build #1223. Started by user admin.
   * Build #1224. Started by user admin.
+  * Build #1225. Started by user admin. Rebuilds build #1,224.
 
- -- Jenkins <jenkins@biocache-store-0.gbif.es>  Wed, 23 Apr 2025 12:40:58 +0200
+ -- Jenkins <jenkins@biocache-store-0.gbif.es>  Mon, 05 May 2025 18:43:33 +0200
 
 ala-i18n (0.5.305) unstable; urgency=medium
 
