@@ -58,8 +58,8 @@ To use these translations, each ALA app should search for (with precedence):
 # ala-i18n packaged & installed translations
 # (should not be modified my node developers):
 /opt/atlas/i18n/<app-name>/message*
-# currently packaged i18n resources
-/var/lib/tomcat7/webapp*
+# Packaged i18n resources in wars
+/var/lib/tomcat*/webapp*
 ```
 
 So [we are updating each ALA app](https://github.com/search?q=is%3Apr+author%3Avjrj+org%3AAtlasOfLivingAustralia+ala-i18n&type=Issues) for this. With these PRs merged and with your ALA site updated (with them), you can maintain your site translations up-to-date.
