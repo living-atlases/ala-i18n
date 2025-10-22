@@ -47,6 +47,9 @@
 [submodule "ecodata"]
 	path = ecodata
 	url = https://github.com/AtlasOfLivingAustralia/ecodata.git
-[submodule "crowdin-configs/collectory"]
+[submodule "collectory"]
 	path = collectory
 	url = https://github.com/AtlasOfLivingAustralia/collectory.git
+[submodule "species-lists"]
+	path = species-lists
+	url = https://github.com/AtlasOfLivingAustralia/species-lists.git
